@@ -1,0 +1,39 @@
+.CAJA2 {
+  background-color: blue;
+  width: 900px;
+  height: 600px;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.PERRO2 {
+  background-color: blanchedalmond;
+  width: 200PX;
+  height: 100px;
+  font-size: 25px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-style: groove;
+}
+
+.GATO2 {
+  background-color: aquamarine;
+  width: 200PX;
+  height: 100px;
+  font-size: 25px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-style: groove;
+}
+.ACCESORIOS2 {
+  background-color: rgb(103, 160, 95);
+  width: 200PX;
+  height: 100px;
+  font-size: 25px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-style: groove;
+}

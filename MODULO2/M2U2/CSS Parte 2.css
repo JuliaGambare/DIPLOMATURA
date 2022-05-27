@@ -2,7 +2,7 @@
    background-color: darkred; 
    display:inline-flex;
    flex-direction: column;
-   width: 800px;
+   width: 900px;
    height: 600px;
    align-items: flex-end;
    border-style: groove;
@@ -16,7 +16,7 @@
 .PERRO{
 
     background-color:cadetblue;
-    width: 200px;
+    width: 200PX;
     height: 200px;
     /* margin: 10px; */
     font-size: 25px;
