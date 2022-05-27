@@ -1,9 +1,10 @@
 .CAJA{
+    
    background-color: darkred; 
    display:inline-flex;
    flex-direction: column;
-   width: 900px;
-   height: 600px;
+   width: 600px;
+   /* height: 600px; */
    align-items: flex-end;
    border-style: groove;
    

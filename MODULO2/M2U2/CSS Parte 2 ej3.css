@@ -1,6 +1,6 @@
 .CAJA3 {
     background-color: green;
-    width: 900px;
+    /* width: 900px; */
     height: 600px;
     display:inline-flex;
     justify-content: center;
@@ -8,8 +8,8 @@
   }
   .PERRO3 {
     background-color: blanchedalmond;
-    width: 300PX;
-    height: 100px;
+    width: 200PX;
+    height: 200px;
     font-size: 25px;
     display: inline-flex;
     justify-content: center;
@@ -19,8 +19,8 @@
   
   .GATO3 {
     background-color: aquamarine;
-    width: 300PX;
-    height: 100px;
+    width: 200PX;
+    height: 200px;
     font-size: 25px;
     display: inline-flex;
     justify-content: center;
@@ -29,8 +29,8 @@
   }
   .ACCESORIOS3 {
     background-color: rgb(103, 160, 95);
-    width: 300PX;
-    height: 100px;
+    width: 200PX;
+    height: 200px;
     font-size: 25px;
     display: inline-flex;
     justify-content: center;
